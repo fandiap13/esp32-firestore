@@ -1,3 +1,4 @@
-Penggunaan firebase firestore pada esp32. Data dari sensor masih dalam bentuk dummy. Fitur yang ada :
+## ESP32 Firestore
+Penggunaan firebase firestore pada esp32. Data sensor masih dalam bentuk dummy yang terdiri dari temperatur dan kelembapan. Fitur yang tersedia :
 1. Kontrol perangkat
 2. Mengirim data sensor ke firestore
