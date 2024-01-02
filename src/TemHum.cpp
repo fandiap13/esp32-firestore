@@ -11,10 +11,10 @@ FirebaseConfig config;
 #define WIFI_SSID "P"
 #define WIFI_PASSWORD "fandiaziz"
 
-#define API_KEY "AIzaSyDcOR7jccgDQa4UpBom546w6gqHCJv-oNg"
-#define FIREBASE_PROJECT_ID "esp32-firestore-40b81"
-#define USER_EMAIL "andiazizp123@gmail.com"
-#define USER_PASSWORD "@Fandiaz123"
+#define API_KEY "ISI SENDIRI BRO"
+#define FIREBASE_PROJECT_ID "ISI SENDIRI BRO"
+#define USER_EMAIL "EMAILMU AUTHMU BRO"
+#define USER_PASSWORD "PASSWORD AUTHMU BRO"
 
 TemHum::TemHum(int pin1, int pin2)
 {
